@@ -14,7 +14,7 @@ The notebooks contain the complete implementation and experiments. Competition d
 
 ---
 
-# Part 1 — Neural Network Weight Denoising
+## Part 1 — Neural Network Weight Denoising
 
 We were given noisy and clean flattened Transformer weights and had to learn a mapping from the noisy vector to the clean one.
 
@@ -54,7 +54,7 @@ We also tested a Gaussian/MMSE-style compensation as a sanity check, but it did 
 
 ---
 
-# Part 2 — Low-Resource Machine Translation
+## Part 2 — Low-Resource Machine Translation
 
 The denoised weights were loaded into the **fixed Transformer Encoder–Decoder** provided for the hackathon.
 
